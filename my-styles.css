@@ -1,0 +1,19 @@
+
+body {
+	text-align: center;
+	margin-top: 50px;
+	font-family: arial;
+	background-color:grey	;
+}
+h1 {
+    color: pink;
+
+}
+h2{color:white;}
+h3{color:white;}
+button,
+button:focus {
+	touch-action: manipulation;
+	color:red
+	font-size:300%;
+}
